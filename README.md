@@ -74,3 +74,6 @@ There is also a LinkedIn Assessments section that just has the requirements for 
   * Intel Quartus and Boards
   * VHDL Programming
   * Encryption on FPGAs
+- [ ] Amateur Radio
+  * Useful Links
+  * UWARC Essentials Document (2018)
